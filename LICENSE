@@ -1,21 +1,52 @@
-MIT License
+VALORANT SKIN CHANGER 2026 🔥🎯
 
-Copyright (c) 2026 mountainmaga
+Client-side cosmetic changer for Valorant  
+Swap weapon skins, agents, charms, gun buddies & kill effects — visual only
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Features overview
+- Instant weapon skin swaps: Prime Vandal, Reaver Phantom, Oni 2.0 etc.
+- Agent changer: all agents with full cosmetics (outfits, banners, titles)
+- Charm & gun buddy swap: any charm, buddy animation (client-side)
+- Kill effects & finishers: visual FX for kills (no server impact)
+- Preview mode: 3D weapon/agent view with lighting & animations
+- Randomizer: auto-random skins/charm per round/agent
+- Favorites: save & load custom loadouts
+- Streamproof: hides visuals from OBS, Discord, screenshots
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+How it works (client-side only)
+- Pure visual modification — no server sync or rank changes
+- Vanguard does not detect cosmetic visuals
+- No real inventory value added — display only
+- Works on latest Valorant builds (Episode 10+ February 2026)
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Quick start guide
+1. Extract the archive
+2. Run the .exe as administrator
+3. Launch Valorant
+4. Press Insert to open menu
+5. Select & apply cosmetics — queue up
+
+Supported platforms
+- Windows 10/11 (64-bit)
+- Latest Valorant (Riot Client / Vanguard)
+
+User notes (Feb 2026)
+"Reaver full bundle every agent — premium vibe"
+"Charm randomizer keeps guns fresh"
+"Preview mode perfect for testing bundles"
+"Streamproof safe for Immortal clips"
+
+FAQ
+Is it detected? No — client-side visuals only, Vanguard ignores cosmetics.
+Menu key? Insert (toggle on/off).
+Updates? Check releases for new bundles, episodes & agents.
+Help? Open an issue or star the repo ⭐
+
+Safety notes ⚠️
+- Visuals only — no trading, gifting or real inventory impact
+- Use on alt accounts if paranoid about file mods
+- Enable streamproof for ranked / streaming
+- No MMR / rank boost — pure cosmetic flex
+
+VALORANT SKIN CHANGER 2026 • Full bundle flex, no VBucks 🔥  
+Drip in every site, brothers!
